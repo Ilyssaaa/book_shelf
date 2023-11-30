@@ -26,6 +26,7 @@
 input, button {
     border-style: none;
     font-size: 16px;
+    font-weight: 500;
 }
 
 .head_bar {
@@ -215,7 +216,6 @@ main {
 
 .rak_section button {
     border: 0;
-    padding: 5px;
     margin: 0 5px 0 0;
     border-radius: 5px;
     cursor: pointer;
@@ -232,6 +232,7 @@ main {
 }
 
 .rak_section .green {
+    font-weight: bold;
     padding: 8px;
     background-color: var(--success-color);
     color: var(--accent-color);
@@ -242,6 +243,7 @@ main {
 }
 
 .rak_section .red {
+    font-weight: bold;
     padding: 8px;
     background-color: var(--danger-color);
     color: var(--accent-color);
@@ -252,6 +254,7 @@ main {
 }
 
 .rak_section .finish {
+    font-weight: bold;
     padding: 8px;
     background-color: var(--success-color);
     color: var(--accent-color);
