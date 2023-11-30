@@ -4,9 +4,9 @@ This book storage application leverages web technologies like Browser Object Mod
 A user can use the application to add books to their collection. The application will ask the user for the book's title, author, and other information. The application will then store this information in the web storage. The user can then view their collection of books by opening the application.
 
 # Criteria
-✅Able to Add new Book Data.
-✅Have a minimum of two bookshelves. Namely "Not finished reading" and "Completed reading".
-✅Can Move Books between Shelves.
-✅Can delete book data.
-✅Can search for books by book title.
-✅Take advantage of localStorage to save book data.
+- ✅Able to Add new Book Data.
+- ✅Have a minimum of two bookshelves. Namely "Not finished reading" and "Completed reading".
+- ✅Can Move Books between Shelves.
+- ✅Can delete book data.
+- ✅Can search for books by book title.
+- ✅Take advantage of localStorage to save book data.
